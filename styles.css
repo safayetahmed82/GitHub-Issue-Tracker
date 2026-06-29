@@ -1,0 +1,27 @@
+.active{
+    color: white;
+    background-color: blue;
+}
+
+
+ .open-border {
+        border-top:6px solid #22c55e;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+        
+      }
+
+ .closed-border {
+        border-top:6px solid #a855f7;
+        border-top-left-radius: 12px;
+        border-top-right-radius: 12px;
+          
+        };
+
+   .open-border {
+        border-top: 6px solid #22c55e !important;
+      }
+
+      .closed-border {
+        border-top: 6px solid #a855f7 !important;
+      }
