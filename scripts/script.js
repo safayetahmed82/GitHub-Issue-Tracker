@@ -14,7 +14,7 @@ document.getElementById("login-btn").addEventListener("click", function () {
     alert("LOGIN SUCCESSFUL");
     userName.value = "";
     passWord.value = "";
-    window.location.assign("../home.html");
+    window.location.assign("home.html");
   } else {
     alert("ENTER VALID INFO");
     userName.value = "";
